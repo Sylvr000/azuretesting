@@ -1,2 +1,2 @@
 # azuretesting
-beer
+beer is good food.
